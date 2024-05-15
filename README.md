@@ -7,6 +7,7 @@ The inversion of the focal mechanisms is performed by the grid search method (CH
 
 
 # References:
+Li, S.; Fang, L.; Xiao, Z.; Zhou, Y.; Liao, S.; Fan, L. FocMech-Flow: Automatic Determination of P-Wave First-Motion Polarity and Focal Mechanism Inversion and Application to the 2021 Yangbi Earthquake Sequence. Appl. Sci. 2023, 13, 2233. https://doi.org/10.3390/app13042233
 DiTingMotion:
 Zhao, M., Xiao, Z., Zhang, M., Yang, Y., Tang, L., & Chen, S. (2023). DiTingMotion: A deep-learning first-motion-polarity classifier and its application to focal mechanism inversion. Frontiers in Earth Science, 11, 335.https://doi.org/10.3389/feart.2023.1103914
 
